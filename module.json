@@ -1,0 +1,17 @@
+{
+  "name": "auto-sync-tiles-opacity",
+  "title": "Auto Sync Tiles Opacity",
+  "description": "Automatically syncs all tiles' opacity with the scene's darkness level.",
+  "version": "1.0.0",
+  "minimumCoreVersion": "13",
+  "author": "Your Name",
+  "scripts": ["auto-sync.js"],
+  "esmodules": [],
+  "styles": [],
+  "packs": [],
+  "dependencies": [],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  }
+}
